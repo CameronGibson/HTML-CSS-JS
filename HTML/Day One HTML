@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html dir = "ltr" lang = "en">
+    <head>
+        <title>HTML Training</title>
+        <meta name = "Description" content = "This web page is an example of my first day learning the in's and out's of HTML"/>
+    </head>
+    <body background = https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/2cdfe757116841.59c98d7e2ca2d.jpg>
+        
+        <div id = "menu" align = "middle">
+         <a href = "https://github.com/CameronGibson">GITHUB</a> -
+         <a href = "https://github.com/CameronGibson/HTML-CSS-JS">REPOSITORY</a>
+        </div>
+      
+        <center>
+        <h1 title = "header" style = "color:#FFFFFF"><u>Cameron&nbsp;Gibson
+        </u></h1><hr />
+        <p style = "color:#FFFFFF"><b><q>Hello reader. This code expresses<br/>
+        my knowledge of <em>HTML</em> after my<br/>
+        first day learning it's capabilities.</q></b></p>
+        <p align = "left"><i>To the left,<br/>to the left.</i><br/>-Beyonce</p>
+        <p><tt><sup><sup>M</sup>ono</sup>spa<sub>cin</sub><sub><sub>g</sub></sub> is <big>cool</big>!</tt></p>
+        <p>mirror<bdo dir = "rtl">mirror</bdo></p>
+        </center>
+    </body>
+</html>
